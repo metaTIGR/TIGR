@@ -1,3 +1,5 @@
+0xC230301E8E8292e60101A4F70Ab7F1E3C6dC363c
+
 /**
  *Submitted for verification at BscScan.com on 2022-02-25
 */
@@ -1170,7 +1172,7 @@ contract TIGRDAO is ERC20, Ownable {
             _mint is an internal function in ERC20.sol that is only called here,
             and CANNOT be called ever again
         */
-        _mint(owner(), 2500000001 * (10**9)); // 2 billion, 500 million 1 Tokens
+        _mint(owner(), 2750000001 * (10**9)); // 2 billion, 750 million, and 1 Tokens
     }
 
     receive() external payable {}
