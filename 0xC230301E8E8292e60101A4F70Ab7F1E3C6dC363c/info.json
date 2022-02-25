@@ -1,0 +1,11 @@
+{
+    "name": "Meta TIGR",
+    "website": "https://metatigr.com/",
+    "description": "TIGR is an asset-generating, DeFi project.",
+    "explorer": "https://bscscan.com/token/0xC230301E8E8292e60101A4F70Ab7F1E3C6dC363c",
+    "type": "BEP20",
+    "symbol": "TIGR",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xC230301E8E8292e60101A4F70Ab7F1E3C6dC363c"
+}
